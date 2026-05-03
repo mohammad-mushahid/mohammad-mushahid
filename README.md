@@ -1,17 +1,20 @@
-<h1 align="center">Hi 👋, I'm Mohammad Mushahid</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | Python & DSA Learner</h3>
+<h1 align="center">⚡ Mohammad Mushahid ⚡</h1>
+
+<h3 align="center">
+🚀 Becoming a World-Class Full Stack AI & Python Developer
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammad-mushahid&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%7C+Python+%7C+DSA;Consistency+is+Power+🔥" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning *Python, DSA & Full Stack Development*
-- 🎯 Goal: Crack a high-paying developer job 💼
-- 🔥 Building daily coding consistency
-- ⚡ Focused on growth & discipline
+- ⚡ Becoming a *World-Class Full Stack AI & Python Developer*
+- 🔥 Practicing daily to reach top level
+- 💻 Focused on Python, DSA & Full Stack
+- 🎯 Mission: High-paying job + strong skills
 
 ---
 
@@ -44,21 +47,12 @@
 ---
 
 ### 🚀 Projects
-- 📌 Full Stack Journey (DSA + Learning)
-- 📌 Daily Coding Practice
+- 📌 DSA Practice (LeetCode)
+- 📌 Python Beginner Projects
 
 ---
 
 ### 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-mushahid&theme=tokyo-night" />
-</p>
-
----
-
-### 🤝 Connect with Me
-<p align="center">
-  <a href="https://github.com/mohammad-mushahid">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
 </p>
