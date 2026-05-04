@@ -56,7 +56,13 @@
 </p>
 
 ---
+## 🚀 My Stats
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/mohammad-mushahid?theme=dark&font=baloo&ext=heatmap)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammad-mushahid&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mohammad-mushahid&theme=radical)
 ## 🔥 CONTRIBUTION GRAPH
 
 <p align="center">
