@@ -62,9 +62,8 @@
 ## 🔥 Skills Animation
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF4500&center=true&vCenter=true&width=600&lines=Frontend+Developer;Backend+Developer;Python+Programmer;DSA+Problem+Solver;Future+AI+Engineer🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF4500&center=true&vCenter=true&width=900&height=80&size=35&lines=Frontend+Developer+🔥;Backend+Developer+⚡;Python+Programmer+🐍;DSA+Problem+Solver+💻;Future+AI+Engineer+🚀" />
 </p>
-
 ---
 
 ## 🔥 Profile Views
