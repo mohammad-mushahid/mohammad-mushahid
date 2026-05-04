@@ -59,7 +59,7 @@
 <h2 align="center">🔥 MY LEETCODE JOURNEY 🔥</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/XPTpdPiww?theme=dark&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/XPTtdPwiwv?theme=dark&ext=heatmap&cache=0" />
 </p>
 
 <p align="center">
