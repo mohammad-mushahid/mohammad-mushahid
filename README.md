@@ -56,13 +56,15 @@
 </p>
 
 ---
-## 🚀 My Stats
+<h2 align="center">🔥 MY LEETCODE JOURNEY 🔥</h2>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mohammad-mushahid?theme=dark&font=baloo&ext=heatmap)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/XPTpdPiww?theme=dark&ext=heatmap" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammad-mushahid&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mohammad-mushahid&theme=radical)
+<p align="center">
+  🚀 Consistency • Growth • Problem Solving 🚀
+</p>
 ## 🔥 CONTRIBUTION GRAPH
 
 <p align="center">
