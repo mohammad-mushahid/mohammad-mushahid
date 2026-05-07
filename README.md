@@ -9,7 +9,7 @@
 </p>
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=mohammad-mushahid&show_icons=true&theme=tokyonight" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohammad-mushahid&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 🔥 ABOUT ME
 
