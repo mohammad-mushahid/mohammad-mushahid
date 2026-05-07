@@ -29,6 +29,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mushahid123&show_icons=true&theme=tokyonight)
 
 ### ⚡ BACKEND
 <p align="center">
