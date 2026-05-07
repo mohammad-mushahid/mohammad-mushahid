@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammad-mushahid&show_icons=true&theme=tokyonight)
+
 
 ### ⚡ BACKEND
 <p align="center">
@@ -47,6 +47,8 @@
 </p>
 
 <p align="center">🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammad-mushahid&show_icons=true&theme=tokyonight)
 
 ---
 
