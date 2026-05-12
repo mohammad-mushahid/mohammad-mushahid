@@ -25,24 +25,13 @@
 
 ---
 
-# 🔥 CONTRIBUTION SNAKE
+# 🚀 DAILY CONTRIBUTIONS
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mohammad-mushahid/mohammad-mushahid/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mohammad-mushahid/mohammad-mushahid/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/mohammad-mushahid/mohammad-mushahid/output/github-contribution-grid-snake-dark.svg"
-  />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-mushahid&bg_color=000000&color=ff6600&line=ff6600&point=ffffff&area=true&hide_border=true"/>
+
+</div>
 
 # 🔥 STREAK STATS
 
