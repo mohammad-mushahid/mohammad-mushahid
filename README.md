@@ -125,7 +125,7 @@
 
 <div align="center">
 
-<a href="mailto:mohammadmushahid217@gmail.com">
+<a href="Gmailto:mohammadmushahid217@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-ff6600?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
