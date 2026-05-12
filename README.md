@@ -35,7 +35,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-mushahid&bg_color=000000&color=ff6600&line=ff6600&point=ffffff&area=true&area_color=ff6600&hide_border=false&radius=12&height=500"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-mushahid&bg_color=000000&color=ff6600&line=ff6600&point=ffffff&area=true&area_color=ff6600&hide_border=false&radius=12&height=1000"/>
 </p>
 
 
