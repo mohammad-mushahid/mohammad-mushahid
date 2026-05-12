@@ -21,3 +21,55 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammad-mushahid&show_icons=true&locale=en" alt="mohammad-mushahid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-mushahid&" alt="mohammad-mushahid" /></p>
+## 🔥 CODING STREAK
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammad-mushahid&theme=tokyonight&hide_border=true&stroke=FF8C00&ring=FF4500&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FF4500" />
+</p>
+
+---
+<h2 align="center">🔥 MY LEETCODE JOURNEY 🔥</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/XPTtdPwiwv?theme=dark&ext=heatmap&cache=0" />
+</p>
+
+<p align="center">
+  🚀 Consistency • Growth • Problem Solving 🚀
+</p>
+## 🔥 CONTRIBUTION GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-mushahid&bg_color=000000&color=FF8C00&line=FF4500&point=FF8C00&area=true&area_color=FF4500&hide_border=true" />
+</p>
+
+<p align="center">🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥</p>
+
+---
+
+## 🔥 SKILLS ANIMATION
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF4500&center=true&vCenter=true&width=1000&height=90&size=35&lines=🔥+FRONTEND+DEVELOPER;⚡+BACKEND+DEVELOPER;🐍+PYTHON+PROGRAMMER;💻+DSA+PROBLEM+SOLVER;🚀+FUTURE+AI+ENGINEER" />
+</p>
+
+---
+
+## 🔥 PROFILE VIEWS
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammad-mushahid&label=PROFILE+VIEWS&color=FF8C00&style=for-the-badge" />
+</p>
+
+---
+
+## 🔥 QUOTE
+
+<p align="center">
+🔥 <b>DISCIPLINE + CONSISTENCY = ELITE DEVELOPER</b> 🔥
+</p>
+
+<!-- 🔥 BOTTOM BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=120&section=footer" />
+</p>
