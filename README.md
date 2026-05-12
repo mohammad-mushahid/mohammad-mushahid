@@ -8,9 +8,7 @@
 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=mohammad-mushahid&label=PROFILE+VIEWS&color=ff6600&style=for-the-badge" />
 
-</div>
 
 ---
 
@@ -142,5 +140,9 @@
 <div align="center">
 
 # 💀 GRINDING TO BECOME A WORLD CLASS ENGINEER 🔥
+
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=mohammad-mushahid&label=PROFILE+VIEWS&color=ff6600&style=for-the-badge" />
 
 </div>
