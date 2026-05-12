@@ -25,16 +25,13 @@
 
 ---
 
-# 🔥 GITHUB DASHBOARD
+## 🔥 CONTRIBUTION GRAPH
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-mushahid&bg_color=000000&color=FF8C00&line=FF4500&point=FF8C00&area=true&area_color=FF4500&hide_border=true" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammad-mushahid&show_icons=true&theme=highcontrast&title_color=ff6600&icon_color=ff6600&text_color=ffffff&bg_color=000000&border_color=ff6600"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-mushahid&layout=compact&theme=highcontrast&title_color=ff6600&text_color=ffffff&bg_color=000000&border_color=ff6600"/>
-
-</div>
-
+<p align="center">🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥</p>
 ---
 
 # 🔥 STREAK STATS
@@ -66,6 +63,11 @@
 </div>
 
 ---
+<h2 align="center">🔥 MY LEETCODE JOURNEY 🔥</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/XPTtdPwiwv?theme=dark&ext=heatmap&cache=0" />
+</p>
 
 # ⚡ TECH STACK
 
