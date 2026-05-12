@@ -25,14 +25,24 @@
 
 ---
 
-## 🔥 CONTRIBUTION GRAPH
+# 🔥 CONTRIBUTION SNAKE
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-mushahid&bg_color=000000&color=FF8C00&line=FF4500&point=FF8C00&area=true&area_color=FF4500&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥</p>
----
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mohammad-mushahid/mohammad-mushahid/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mohammad-mushahid/mohammad-mushahid/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/mohammad-mushahid/mohammad-mushahid/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
 
 # 🔥 STREAK STATS
 
