@@ -16,36 +16,12 @@
 
 # 🧠 ABOUT ME
 
-python
-class MohammadMushahid:
-
-    def __init__(self):
-        self.name = "Mohammad Mushahid"
-        self.role = "Future World Class Engineer"
-        self.learning = [
-            "Python",
-            "DSA",
-            "Full Stack",
-            "AI/ML"
-        ]
-
-        self.goal = "Become Elite Software Engineer"
-
-        self.focus = [
-            "Consistency",
-            "Hard Work",
-            "Daily Improvement"
-        ]
-
-    def grind(self):
-
-        while True:
-
-            code()
-            learn()
-            improve()
-            repeat()
-
+- 💻 Learning Python, DSA, Full Stack & AI/ML
+- 🚀 Grinding Daily To Become World Class Engineer
+- 🔥 Building Strong Programming Fundamentals
+- 💀 Focused On Consistency & Hard Work
+- 🤖 Future AI/ML Engineer
+- ⚡ Daily Coding & GitHub Contributions
 
 ---
 
@@ -66,6 +42,16 @@ class MohammadMushahid:
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-mushahid&theme=highcontrast&ring=ff6600&fire=ff6600&currStreakLabel=ff6600&sideNums=ffffff&currStreakNum=ff6600&dates=ffffff&sideLabels=ffffff&background=000000&border=ff6600"/>
+
+</div>
+
+---
+
+# 🔥 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mohammad-mushahid/mohammad-mushahid/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
