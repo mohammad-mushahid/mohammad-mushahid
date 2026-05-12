@@ -53,11 +53,13 @@
 
 </div>
 
-# 🔥 CONTRIBUTION GRAPH
+# 🔥 DAILY CONTRIBUTIONS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-mushahid&bg_color=000000&color=ff6600&line=ff6600&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-mushahid&repo=mohammad-mushahid&theme=highcontrast&title_color=ff6600&text_color=ffffff&bg_color=000000&border_color=ff6600"/>
+
+<img src="https://ghchart.rshah.org/ff6600/mohammad-mushahid" alt="Mohammad Mushahid's Github chart" />
 
 </div>
 
