@@ -35,9 +35,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-mushahid&bg_color=000000&color=ff6600&line=ff6600&point=ffffff&area=true&area_color=ff6600&hide_border=false&radius=12&height=1000"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-mushahid&bg_color=000000&color=ff6600&line=ff6600&point=ffffff&area=true&area_color=ff6600&hide_border=true&radius=16&custom_title=MOHAMMAD%20MUSHAHID'S%20CONTRIBUTION%20GRAPH&height=500"/>
 </p>
-
 
 ---
 <h2 align="center">🔥 MY LEETCODE JOURNEY 🔥</h2>
