@@ -43,15 +43,15 @@
 
 ---
 
-# 🔥 CONTRIBUTION SNAKE
+# 🔥 DAILY CONTRIBUTIONS
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mohammad-mushahid/mohammad-mushahid/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-mushahid&repo=mohammad-mushahid&theme=highcontrast&title_color=ff6600&text_color=ffffff&bg_color=000000&border_color=ff6600"/>
+
+<img src="https://ghchart.rshah.org/ff6600/mohammad-mushahid" alt="Mohammad Mushahid's Github chart" />
 
 </div>
-
----
 
 # 🔥 CONTRIBUTION GRAPH
 
