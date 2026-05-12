@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:ff6600,100:000000&text=MOHAMMAD%20MUSHAHID&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Grinding%20To%20Become%20A%20World%20Class%20Engineer%20💀🔥&descAlignY=60&descSize=22"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=1000&lines=MOHAMMAD+MUSHAHID;FULL+STACK+GENERATIVE+AI+DEVELOPER;ASPIRING+TO+BECOME+WORLD+CLASS+AI+ENGINEER" />
 <br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=1000&lines=+IAM MOHAMMAD MUSHAHID;FULL+STACK+GENERATIVE+AI+DEVELOPER💀; ASPIRING+TO+BECOME+WORLD+CLASS+AI+ENGINEER+🚀" />
