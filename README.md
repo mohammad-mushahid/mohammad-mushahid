@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:ff6600,100:000000&text=MOHAMMAD%20MUSHAHID&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:ff6600,100:000000&text=MOHAMMAD%20MUSHAHID&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Aspiring%20To%20Become%20A%20World%20Class%20Engineer%20💀🔥&descAlignY=60&descSize=22"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FF6600&center=true&vCenter=true&width=1000&lines=Future+Full+Stack+Generative+AI+Developer+🤖;Aspiring+To+Become+A+World+Class+AI+Engineer+🚀;Python+Developer+💀;Building+Projects+Daily+🔥;Grinding+Daily+For+Greatness+😈" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FF6600&center=true&vCenter=true&width=1000&lines=I+am+Mohammad+Mushahid+🔥;Full+Stack+Generative+AI+Engineer+🤖;Aspiring+World+Class+AI+Engineer+🚀;Building+Projects+Daily+💀;Grinding+Daily+For+Greatness+😈" />
 
 </div>
 
