@@ -1,13 +1,12 @@
-<!-- 🔥 TOP BANNER (NEON STYLE) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=200&section=header&text=MOHAMMAD%20MUSHAHID&fontSize=40&fontColor=000000&animation=fadeIn" />
-</p>
+<div align="center">
 
-<!-- 🔥 NAME ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF8C00&center=true&vCenter=true&width=900&height=70&size=30&lines=🔥+WORLD+CLASS+AI+DEVELOPER;⚡+PYTHON+%7C+DSA+%7C+FULL+STACK;🚀+BUILDING+ELITE+SKILLS" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:ff6600,100:000000&text=MOHAMMAD%20MUSHAHID&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38"/>
+
 <br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FF6600&center=true&vCenter=true&width=1000&lines=Future+Full+Stack+Generative+AI+Developer+🤖;Aspiring+To+Become+A+World+Class+AI+Engineer+🚀;Python+Developer+💀;Building+Projects+Daily+🔥;Grinding+Daily+For+Greatness+😈" />
+
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=mohammad-mushahid&label=PROFILE+VIEWS&color=ff6600&style=for-the-badge" />
 
