@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=1000&lines=+IAM MOHAMMAD MUSHAHID;FULL+STACK+ GENERATIVE AI DEVELOPER💀; ASPIRING TO BECOME WORLD CLASS  AI ENGINEER+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=1000&lines=+IAM MOHAMMAD MUSHAHID;FULL+STACK+GENERATIVE+AI+DEVELOPER💀; ASPIRING+TO+BECOME+WORLD+CLASS+AI+ENGINEER+🚀" />
 
 <br><br>
 
