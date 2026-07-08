@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:ff6600,100:000000&text=MOHAMMAD%20MUSHAHID&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Aspiring%20To%20Become%20A%20World%20Class%20Engineer%20💀🔥&descAlignY=60&descSize=24"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:ff6600,100:000000&text=MOHAMMAD%20MUSHAHID&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Aspiring%20To%20Become%20A%20World%20Class%20Engineer%20💀🔥&descAlignY=60&descSize=23"/>
 
 <br><br>
 
